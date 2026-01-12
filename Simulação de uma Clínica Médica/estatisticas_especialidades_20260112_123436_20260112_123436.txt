@@ -1,0 +1,72 @@
+ESTATÍSTICAS DE ESPECIALIDADES - PACIENTES ATENDIDOS
+====================================================================================================
+Data/Hora: 12/01/2026 12:34:33
+Tempo simulação: 480 minutos
+Total de pacientes atendidos: 507
+Total de atendimentos: 507
+Total médicos disponíveis: 35
+Pacientes encontrados nos dados: 507
+
+DISTRIBUIÇÃO DE PACIENTES ATENDIDOS POR ESPECIALIDADE NECESSÁRIA
+====================================================================================================
+Especialidade              Pacientes    % Total   Urgentes    Médicos     Ocupação   Corresp.
+----------------------------------------------------------------------------------------------------
+Clínica Geral                     55      10.8%         29          3        59.6%     100.0%
+Medicina Interna                  44       8.7%         21          3        49.0%     100.0%
+Ortopedia                         44       8.7%         25          3        50.6%     100.0%
+Neurologia                        43       8.5%         19          3        45.5%     100.0%
+Cardiologia                       39       7.7%         23          2        57.5%     100.0%
+Pediatria                         38       7.5%         15          3        41.0%     100.0%
+Dermatologia                      33       6.5%         19          2        55.2%     100.0%
+Pneumologia                       32       6.3%         17          2        52.3%     100.0%
+Oftalmologia                      29       5.7%         13          2        41.0%     100.0%
+Gastroenterologia                 29       5.7%         16          2        48.2%     100.0%
+Ginecologia                       28       5.5%         13          2        41.7%     100.0%
+Urologia                          26       5.1%         13          2        40.8%     100.0%
+Psiquiatria                       26       5.1%         12          2        42.0%     100.0%
+Otorrinolaringologia              23       4.5%          9          2        38.0%     100.0%
+Endocrinologia                    18       3.6%         11          2        30.1%     100.0%
+
+ANÁLISE DE BALANCEAMENTO DE RECURSOS
+====================================================================================================
+TOP 5 ESPECIALIDADES COM MAIOR DEMANDA:
+  • Clínica Geral: 55 pacientes, 3 médico(s) (18.3 pacientes/médico)
+  • Medicina Interna: 44 pacientes, 3 médico(s) (14.7 pacientes/médico)
+  • Ortopedia: 44 pacientes, 3 médico(s) (14.7 pacientes/médico)
+  • Neurologia: 43 pacientes, 3 médico(s) (14.3 pacientes/médico)
+  • Cardiologia: 39 pacientes, 2 médico(s) (19.5 pacientes/médico)
+
+ESPECIALIDADES COM BAIXA OCUPAÇÃO (<30%):
+  • Nenhuma especialidade com baixa ocupação
+
+RECOMENDAÇÕES E ALERTAS
+====================================================================================================
+
+SOBRECARGA POTENCIAL (>15 pacientes/médico):
+  • Pneumologia: 16.0 pacientes/médico → CONSIDERAR CONTRATAR MAIS MÉDICOS
+  • Clínica Geral: 18.3 pacientes/médico → CONSIDERAR CONTRATAR MAIS MÉDICOS
+  • Dermatologia: 16.5 pacientes/médico → CONSIDERAR CONTRATAR MAIS MÉDICOS
+  • Cardiologia: 19.5 pacientes/médico → CONSIDERAR CONTRATAR MAIS MÉDICOS
+
+SUGESTÕES GERAIS:
+--------------------------------------------------
+• Taxa geral de correspondência especialidade: 100.0%
+  → Excelente correspondência de especialidades!
+• Pacientes urgentes atendidos: 255 (50.3% do total)
+  → Neurologia: 19 urgentes → PODE PRECISAR DE MAIS RECURSOS
+  → Medicina Interna: 21 urgentes → PODE PRECISAR DE MAIS RECURSOS
+  → Ginecologia: 13 urgentes → PODE PRECISAR DE MAIS RECURSOS
+  → Urologia: 13 urgentes → PODE PRECISAR DE MAIS RECURSOS
+  → Clínica Geral: 29 urgentes → PODE PRECISAR DE MAIS RECURSOS
+  → Pediatria: 15 urgentes → PODE PRECISAR DE MAIS RECURSOS
+  → Cardiologia: 23 urgentes → PODE PRECISAR DE MAIS RECURSOS
+  → Ortopedia: 25 urgentes → PODE PRECISAR DE MAIS RECURSOS
+  → Dermatologia: 19 urgentes → PODE PRECISAR DE MAIS RECURSOS
+  → Oftalmologia: 13 urgentes → PODE PRECISAR DE MAIS RECURSOS
+  → Endocrinologia: 11 urgentes → PODE PRECISAR DE MAIS RECURSOS
+  → Pneumologia: 17 urgentes → PODE PRECISAR DE MAIS RECURSOS
+  → Otorrinolaringologia: 9 urgentes → PODE PRECISAR DE MAIS RECURSOS
+  → Gastroenterologia: 16 urgentes → PODE PRECISAR DE MAIS RECURSOS
+  → Psiquiatria: 12 urgentes → PODE PRECISAR DE MAIS RECURSOS
+
+====================================================================================================

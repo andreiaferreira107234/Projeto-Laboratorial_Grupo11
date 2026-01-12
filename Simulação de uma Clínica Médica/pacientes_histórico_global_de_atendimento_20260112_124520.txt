@@ -1,0 +1,3150 @@
+LISTA DE PACIENTES - Histórico Global de Atendimento
+================================================================================
+Data/Hora: 12/01/2026 12:45:20
+Total de pacientes: 169
+
+PACIENTE 1:
+  ID: d725
+  Nome: Yuran Patrick Guedelha
+  Idade: 27
+  Sexo: masculino
+  Doença: Trombose
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Cardiologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Miguel Fernandes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 22.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 2:
+  ID: d711
+  Nome: Lekbira Panoo
+  Idade: 51
+  Sexo: feminino
+  Doença: Hipertensão arterial
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Cardiologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Catarina Lopes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 8.3 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 3:
+  ID: d83
+  Nome: Quevim Valentoo
+  Idade: 18
+  Sexo: feminino
+  Doença: Acidente vascular cerebral
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Cardiologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Miguel Fernandes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 10.7 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 4:
+  ID: d78
+  Nome: Afonso Alexandre Prado
+  Idade: 26
+  Sexo: masculino
+  Doença: Sopro cardíaco
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Cardiologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Catarina Lopes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 14.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 5:
+  ID: d928
+  Nome: Álvaro Miguel Paraiso
+  Idade: 28
+  Sexo: feminino
+  Doença: Insuficiência cardíaca
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Cardiologia
+  Tempo de Espera: 6.5 minutos
+  Médico Atendente: Dr. Miguel Fernandes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 20.7 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 6:
+  ID: d1142
+  Nome: Indie Segurado
+  Idade: 76
+  Sexo: masculino
+  Doença: Taquicardia
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Cardiologia
+  Tempo de Espera: 1.5 minutos
+  Médico Atendente: Dra. Catarina Lopes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 11.7 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 7:
+  ID: d713
+  Nome: Aquila Aveleira
+  Idade: 73
+  Sexo: masculino
+  Doença: Taquicardia
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Cardiologia
+  Tempo de Espera: 9.5 minutos
+  Médico Atendente: Dra. Catarina Lopes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 16.1 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 8:
+  ID: d931
+  Nome: Lianor Faina
+  Idade: 98
+  Sexo: masculino
+  Doença: Doença arterial coronária
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Cardiologia
+  Tempo de Espera: 26.0 minutos
+  Médico Atendente: Dr. Miguel Fernandes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 16.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 9:
+  ID: d1997
+  Nome: Sidónio Beiões
+  Idade: 25
+  Sexo: feminino
+  Doença: Hipertensão arterial
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Cardiologia
+  Tempo de Espera: 4.0 minutos
+  Médico Atendente: Dra. Catarina Lopes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 16.1 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 10:
+  ID: d1790
+  Nome: Edjane Alcobaça
+  Idade: 56
+  Sexo: outro
+  Doença: Doença arterial coronária
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Cardiologia
+  Tempo de Espera: 12.5 minutos
+  Médico Atendente: Dr. Miguel Fernandes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 15.8 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 11:
+  ID: d1151
+  Nome: Gonçalo Eduardo Medeiros
+  Idade: 30
+  Sexo: masculino
+  Doença: Miocardite
+  Prioridade: URGENTE
+  Status: NA FILA
+  Especialidade Necessária: Cardiologia
+  Tempo de Espera: 12.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 12:
+  ID: d1157
+  Nome: Mário Miguel Carrasco
+  Idade: 56
+  Sexo: feminino
+  Doença: Aterosclerose
+  Prioridade: URGENTE
+  Status: NA FILA
+  Especialidade Necessária: Cardiologia
+  Tempo de Espera: 3.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 13:
+  ID: d1800
+  Nome: Lara Fabiana Pavão
+  Idade: 61
+  Sexo: feminino
+  Doença: Hipercolesterolemia
+  Prioridade: NORMAL
+  Status: NA FILA
+  Especialidade Necessária: Cardiologia
+  Tempo de Espera: 43.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 14:
+  ID: d720
+  Nome: Adriano Luís Brasia
+  Idade: 96
+  Sexo: outro
+  Doença: Miocardite
+  Prioridade: NORMAL
+  Status: NA FILA
+  Especialidade Necessária: Cardiologia
+  Tempo de Espera: 38.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 15:
+  ID: d1520
+  Nome: Chenxi Pimentel
+  Idade: 22
+  Sexo: outro
+  Doença: Azia
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. António Silva
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 20.9 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 16:
+  ID: d1951
+  Nome: Heloísa Katarina Crispim
+  Idade: 54
+  Sexo: outro
+  Doença: Indigestão
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Maria Santos
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 10.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 17:
+  ID: d862
+  Nome: Mafalda Leonor Flores
+  Idade: 50
+  Sexo: masculino
+  Doença: Sinusite
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Rui Carvalho
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 20.9 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 18:
+  ID: d1517
+  Nome: Alana Marisol Rissol
+  Idade: 85
+  Sexo: outro
+  Doença: Diarreia
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 1.5 minutos
+  Médico Atendente: Dra. Maria Santos
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 16.6 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 19:
+  ID: d1724
+  Nome: Nirjala Pinhão
+  Idade: 30
+  Sexo: feminino
+  Doença: Rinite
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 2.5 minutos
+  Médico Atendente: Dr. António Silva
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 16.4 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 20:
+  ID: d1729
+  Nome: Béyoncé Avila
+  Idade: 30
+  Sexo: outro
+  Doença: Enxaqueca
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 15.0 minutos
+  Médico Atendente: Dr. Rui Carvalho
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 13.9 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 21:
+  ID: d4
+  Nome: Iolanda Raquel Camacho
+  Idade: 73
+  Sexo: outro
+  Doença: Tosse
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 11.0 minutos
+  Médico Atendente: Dra. Maria Santos
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 20.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 22:
+  ID: d1514
+  Nome: Joaquim Filipe Curcialeiro
+  Idade: 75
+  Sexo: outro
+  Doença: Enxaqueca
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 3.5 minutos
+  Médico Atendente: Dr. António Silva
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 11.4 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 23:
+  ID: d1741
+  Nome: Osvaldina Formigo
+  Idade: 86
+  Sexo: feminino
+  Doença: Consulta de rotina
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 15.0 minutos
+  Médico Atendente: Dr. Rui Carvalho
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 15.7 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 24:
+  ID: d447
+  Nome: Jesus Cristo Caio
+  Idade: 85
+  Sexo: feminino
+  Doença: Fadiga
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 20.5 minutos
+  Médico Atendente: Dr. António Silva
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 12.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 25:
+  ID: d1739
+  Nome: Dinis Maurício Martinho
+  Idade: 50
+  Sexo: feminino
+  Doença: Ansiedade
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 2.5 minutos
+  Médico Atendente: Dra. Maria Santos
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 19.8 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 26:
+  ID: d673
+  Nome: Platon Arcão
+  Idade: 41
+  Sexo: outro
+  Doença: Consulta de rotina
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 3.0 minutos
+  Médico Atendente: Dr. Rui Carvalho
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 15.9 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 27:
+  ID: d856
+  Nome: Gaitana Hermenegildo
+  Idade: 81
+  Sexo: masculino
+  Doença: Gripe
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 5.5 minutos
+  Médico Atendente: Dra. Maria Santos
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 11.6 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 28:
+  ID: d873
+  Nome: Adrian Marian Umbelino
+  Idade: 49
+  Sexo: masculino
+  Doença: Fadiga
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. António Silva
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 17.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 29:
+  ID: d213
+  Nome: Alimatu Creado
+  Idade: 40
+  Sexo: feminino
+  Doença: Gripe
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 48.5 minutos
+  Médico Atendente: Dr. Rui Carvalho
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 10.6 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 30:
+  ID: d1519
+  Nome: Sara Salomé Carvalhoso
+  Idade: 39
+  Sexo: feminino
+  Doença: Indigestão
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 2.5 minutos
+  Médico Atendente: Dra. Maria Santos
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 16.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 31:
+  ID: d1512
+  Nome: Arun Largo
+  Idade: 86
+  Sexo: masculino
+  Doença: Conjuntivite
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 11.5 minutos
+  Médico Atendente: Dr. Rui Carvalho
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 14.6 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 32:
+  ID: d1304
+  Nome: Keyla Danara Limede
+  Idade: 61
+  Sexo: masculino
+  Doença: Diarreia
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 4.0 minutos
+  Médico Atendente: Dr. António Silva
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 20.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 33:
+  ID: d19
+  Nome: Danish Sarrazola
+  Idade: 57
+  Sexo: masculino
+  Doença: Constipação
+  Prioridade: ALTA
+  Status: NA FILA
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 8.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 34:
+  ID: d654
+  Nome: Hasna Telo
+  Idade: 20
+  Sexo: masculino
+  Doença: Tosse
+  Prioridade: NORMAL
+  Status: NA FILA
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 63.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 35:
+  ID: d1290
+  Nome: Dugério Caramelo
+  Idade: 30
+  Sexo: outro
+  Doença: Gripe
+  Prioridade: NORMAL
+  Status: NA FILA
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 13.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 36:
+  ID: d666
+  Nome: João de Deus Brião
+  Idade: 49
+  Sexo: outro
+  Doença: Indigestão
+  Prioridade: NORMAL
+  Status: NA FILA
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 2.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 37:
+  ID: d432
+  Nome: Ernest Regalado
+  Idade: 37
+  Sexo: masculino
+  Doença: Tosse
+  Prioridade: NORMAL
+  Status: DESISTENTE
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 40.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 38:
+  ID: d1086
+  Nome: Bestasbé Barono
+  Idade: 29
+  Sexo: masculino
+  Doença: Dor de cabeça
+  Prioridade: NORMAL
+  Status: DESISTENTE
+  Especialidade Necessária: Clínica Geral
+  Tempo de Espera: 30.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 39:
+  ID: d969
+  Nome: Sophia Nicole Alvadia
+  Idade: 29
+  Sexo: feminino
+  Doença: Alopécia
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Dermatologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Sofia Ramos
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 13.7 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 40:
+  ID: d1819
+  Nome: Lígio Bronze
+  Idade: 92
+  Sexo: masculino
+  Doença: Vitiligo
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Dermatologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Marta Oliveira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 13.9 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 41:
+  ID: d963
+  Nome: Lucas Diego Balbino
+  Idade: 98
+  Sexo: masculino
+  Doença: Micose
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Dermatologia
+  Tempo de Espera: 2.0 minutos
+  Médico Atendente: Dra. Sofia Ramos
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 19.3 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 42:
+  ID: d746
+  Nome: Tony Bia
+  Idade: 54
+  Sexo: masculino
+  Doença: Urticária
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Dermatologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Marta Oliveira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 20.8 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 43:
+  ID: d318
+  Nome: Francisco Lucas Bonilha
+  Idade: 35
+  Sexo: feminino
+  Doença: Herpes
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Dermatologia
+  Tempo de Espera: 8.0 minutos
+  Médico Atendente: Dra. Sofia Ramos
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 14.3 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 44:
+  ID: d112
+  Nome: Dinis Francisco Adelia
+  Idade: 50
+  Sexo: masculino
+  Doença: Pele seca
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Dermatologia
+  Tempo de Espera: 6.0 minutos
+  Médico Atendente: Dra. Marta Oliveira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 11.1 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 45:
+  ID: d109
+  Nome: Éllene Yohanni Simoo
+  Idade: 100
+  Sexo: feminino
+  Doença: Rosácea
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Dermatologia
+  Tempo de Espera: 2.0 minutos
+  Médico Atendente: Dra. Sofia Ramos
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 9.9 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 46:
+  ID: d1182
+  Nome: Mélissa Rafaela Palmeiroo
+  Idade: 83
+  Sexo: feminino
+  Doença: Verrugas
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Dermatologia
+  Tempo de Espera: 1.5 minutos
+  Médico Atendente: Dra. Marta Oliveira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 18.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 47:
+  ID: d537
+  Nome: Alisia Elena Lameiras
+  Idade: 97
+  Sexo: outro
+  Doença: Carcinoma
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Dermatologia
+  Tempo de Espera: 1.5 minutos
+  Médico Atendente: Dra. Sofia Ramos
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 12.3 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 48:
+  ID: d955
+  Nome: Dejalme Apolinario
+  Idade: 73
+  Sexo: outro
+  Doença: Acne
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Dermatologia
+  Tempo de Espera: 3.0 minutos
+  Médico Atendente: Dra. Sofia Ramos
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 15.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 49:
+  ID: d534
+  Nome: Nádia Verónica Silvério
+  Idade: 19
+  Sexo: feminino
+  Doença: Verrugas
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Dermatologia
+  Tempo de Espera: 10.0 minutos
+  Médico Atendente: Dra. Marta Oliveira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 11.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 50:
+  ID: d108
+  Nome: Isa Mar Nada
+  Idade: 25
+  Sexo: masculino
+  Doença: Carcinoma
+  Prioridade: NORMAL
+  Status: NA FILA
+  Especialidade Necessária: Dermatologia
+  Tempo de Espera: 11.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 51:
+  ID: d208
+  Nome: Conceição Irina Eufrázio
+  Idade: 99
+  Sexo: outro
+  Doença: Doença de Addison
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Endocrinologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Fábio Almeida
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 18.8 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 52:
+  ID: d1072
+  Nome: Joana Bem Leonel
+  Idade: 46
+  Sexo: outro
+  Doença: Síndrome de Cushing
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Endocrinologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Fábio Almeida
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 9.1 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 53:
+  ID: d1494
+  Nome: Isis Francisca Mouzelo
+  Idade: 80
+  Sexo: outro
+  Doença: Diabetes mellitus
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Endocrinologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Ricardo Sousa
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 15.9 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 54:
+  ID: d422
+  Nome: Flávia Cinara Quintela
+  Idade: 35
+  Sexo: outro
+  Doença: Diabetes mellitus
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Endocrinologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Fábio Almeida
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 11.1 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 55:
+  ID: d1932
+  Nome: Oskar Götz Sardoo
+  Idade: 58
+  Sexo: masculino
+  Doença: Síndrome de Cushing
+  Prioridade: NORMAL
+  Status: NA FILA
+  Especialidade Necessária: Endocrinologia
+  Tempo de Espera: 5.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 56:
+  ID: d648
+  Nome: Xavier Luís Arcoo
+  Idade: 52
+  Sexo: feminino
+  Doença: Distúrbios crescimento
+  Prioridade: NORMAL
+  Status: NA FILA
+  Especialidade Necessária: Endocrinologia
+  Tempo de Espera: 2.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 57:
+  ID: d1415
+  Nome: Maria de Begonha Abrega
+  Idade: 18
+  Sexo: outro
+  Doença: Cálculos biliares
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Gastroenterologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Tiago Pinto
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 9.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 58:
+  ID: d1838
+  Nome: Daniella Graval
+  Idade: 62
+  Sexo: outro
+  Doença: Colite ulcerosa
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Gastroenterologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Hugo Santos
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 20.3 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 59:
+  ID: d339
+  Nome: Welder Mamaia
+  Idade: 29
+  Sexo: outro
+  Doença: Colecistite
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Gastroenterologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Tiago Pinto
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 13.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 60:
+  ID: d1631
+  Nome: Isac Afonso Choupeiro
+  Idade: 37
+  Sexo: outro
+  Doença: Cirrose
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Gastroenterologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Tiago Pinto
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 15.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 61:
+  ID: d1634
+  Nome: Lisandra Filipa Tourigo
+  Idade: 59
+  Sexo: feminino
+  Doença: Intolerância alimentar
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Gastroenterologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Hugo Santos
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 21.7 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 62:
+  ID: d1619
+  Nome: Artur Afonso Tataro
+  Idade: 65
+  Sexo: masculino
+  Doença: Gastrite
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Gastroenterologia
+  Tempo de Espera: 4.0 minutos
+  Médico Atendente: Dr. Tiago Pinto
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 12.7 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 63:
+  ID: d545
+  Nome: Tchissola Ceiça
+  Idade: 82
+  Sexo: masculino
+  Doença: Úlcera
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Gastroenterologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Hugo Santos
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 11.4 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 64:
+  ID: d127
+  Nome: Adwait Cruchinho
+  Idade: 56
+  Sexo: masculino
+  Doença: Intolerância alimentar
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Gastroenterologia
+  Tempo de Espera: 5.0 minutos
+  Médico Atendente: Dr. Hugo Santos
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 16.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 65:
+  ID: d115
+  Nome: Valentina Patrícia Cavem
+  Idade: 20
+  Sexo: masculino
+  Doença: Úlcera
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Gastroenterologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Tiago Pinto
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 20.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 66:
+  ID: d548
+  Nome: Cristovão Geitoso
+  Idade: 29
+  Sexo: feminino
+  Doença: Refluxo gastroesofágico
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Gastroenterologia
+  Tempo de Espera: 6.5 minutos
+  Médico Atendente: Dr. Hugo Santos
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 8.8 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 67:
+  ID: d1843
+  Nome: Rafael Aduramane Lisboeta
+  Idade: 19
+  Sexo: masculino
+  Doença: Cirrose
+  Prioridade: ALTA
+  Status: NA FILA
+  Especialidade Necessária: Gastroenterologia
+  Tempo de Espera: 6.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 68:
+  ID: d556
+  Nome: Mihir Quina
+  Idade: 49
+  Sexo: masculino
+  Doença: Cirrose
+  Prioridade: ALTA
+  Status: NA FILA
+  Especialidade Necessária: Gastroenterologia
+  Tempo de Espera: 4.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 69:
+  ID: d1239
+  Nome: Nuna Lia Noberto
+  Idade: 36
+  Sexo: outro
+  Doença: Síndrome dos ovários policísticos
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Ginecologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Paula Mendes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 8.6 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 70:
+  ID: d161
+  Nome: Taim Ginjeira
+  Idade: 99
+  Sexo: masculino
+  Doença: Menopausa
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Ginecologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Paula Mendes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 8.7 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 71:
+  ID: d1663
+  Nome: Kenzi Mohamed Arrifano
+  Idade: 52
+  Sexo: outro
+  Doença: Menstruação irregular
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Ginecologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Paula Mendes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 19.6 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 72:
+  ID: d1017
+  Nome: Zanardy Menezes
+  Idade: 60
+  Sexo: masculino
+  Doença: Menstruação irregular
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Ginecologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Sandra Costa
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 20.8 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 73:
+  ID: d683
+  Nome: Anorindo Palito
+  Idade: 32
+  Sexo: masculino
+  Doença: Doença hepática
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Medicina Interna
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. João Pereira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 13.1 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 74:
+  ID: d1962
+  Nome: Hailie Coronel
+  Idade: 83
+  Sexo: outro
+  Doença: Obesidade
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Medicina Interna
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Ana Costa
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 12.1 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 75:
+  ID: d244
+  Nome: Diana Jorge Queiró
+  Idade: 96
+  Sexo: outro
+  Doença: Hipertireoidismo
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Medicina Interna
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Inês Oliveira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 13.8 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 76:
+  ID: d687
+  Nome: Naiara Vitória Barreto
+  Idade: 40
+  Sexo: masculino
+  Doença: Osteoporose
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Medicina Interna
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. João Pereira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 7.7 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 77:
+  ID: d1536
+  Nome: Elena Stefania Lavadinho
+  Idade: 49
+  Sexo: feminino
+  Doença: Lúpus
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Medicina Interna
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Ana Costa
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 16.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 78:
+  ID: d1541
+  Nome: Lotero Canavilhas
+  Idade: 27
+  Sexo: outro
+  Doença: Doenças autoimunes
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Medicina Interna
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. João Pereira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 9.3 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 79:
+  ID: d1102
+  Nome: Lucas Eduardo Amador
+  Idade: 53
+  Sexo: masculino
+  Doença: Diabetes
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Medicina Interna
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Inês Oliveira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 14.8 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 80:
+  ID: d1324
+  Nome: Charlie Avelar
+  Idade: 80
+  Sexo: feminino
+  Doença: Doença hepática
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Medicina Interna
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. João Pereira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 19.1 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 81:
+  ID: d455
+  Nome: Subhani Alda
+  Idade: 25
+  Sexo: feminino
+  Doença: Diabetes
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Medicina Interna
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Ana Costa
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 18.8 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 82:
+  ID: d883
+  Nome: Armando Josias Bonifacio
+  Idade: 92
+  Sexo: masculino
+  Doença: Obesidade
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Medicina Interna
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Inês Oliveira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 20.9 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 83:
+  ID: d1960
+  Nome: Ishtmeet Gutierres
+  Idade: 98
+  Sexo: feminino
+  Doença: Diabetes
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Medicina Interna
+  Tempo de Espera: 1.0 minutos
+  Médico Atendente: Dr. João Pereira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 8.1 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 84:
+  ID: d34
+  Nome: Clara Cristina Armando
+  Idade: 99
+  Sexo: masculino
+  Doença: Hipertireoidismo
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Medicina Interna
+  Tempo de Espera: 7.0 minutos
+  Médico Atendente: Dra. Ana Costa
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 8.8 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 85:
+  ID: d1961
+  Nome: Leonor Hadassa Muja
+  Idade: 87
+  Sexo: outro
+  Doença: Colesterol alto
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Medicina Interna
+  Tempo de Espera: 4.0 minutos
+  Médico Atendente: Dr. João Pereira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 21.9 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 86:
+  ID: d1747
+  Nome: Fábio Enzo Matias
+  Idade: 61
+  Sexo: feminino
+  Doença: Anemia
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Medicina Interna
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Ana Costa
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 17.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 87:
+  ID: d1314
+  Nome: Johanna Bolota
+  Idade: 55
+  Sexo: outro
+  Doença: Hipertensão
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Medicina Interna
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Inês Oliveira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 9.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 88:
+  ID: d131
+  Nome: Martim Giovani Meliciano
+  Idade: 81
+  Sexo: masculino
+  Doença: Parkinson
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Neurologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Helena Gomes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 10.4 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 89:
+  ID: d1421
+  Nome: Emanuel Maria Baltar
+  Idade: 70
+  Sexo: feminino
+  Doença: Parkinson
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Neurologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Mariana Lopes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 14.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 90:
+  ID: d134
+  Nome: Enzo Jorge Vares
+  Idade: 68
+  Sexo: feminino
+  Doença: Neuralgia
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Neurologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Isabel Ferreira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 7.7 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 91:
+  ID: d139
+  Nome: Luísa Miguel Durão
+  Idade: 67
+  Sexo: feminino
+  Doença: Demência
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Neurologia
+  Tempo de Espera: 2.5 minutos
+  Médico Atendente: Dra. Helena Gomes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 14.8 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 92:
+  ID: d785
+  Nome: Márvin Azinhais
+  Idade: 18
+  Sexo: masculino
+  Doença: Ataque isquémico transitório
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Neurologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Mariana Lopes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 22.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 93:
+  ID: d133
+  Nome: Simone Margarida Bonda
+  Idade: 67
+  Sexo: outro
+  Doença: Esclerose múltipla
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Neurologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Helena Gomes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 15.6 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 94:
+  ID: d567
+  Nome: Briana Alícia Toxa
+  Idade: 34
+  Sexo: feminino
+  Doença: Neuralgia
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Neurologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Isabel Ferreira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 19.1 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 95:
+  ID: d1853
+  Nome: Isis Maria Carolino
+  Idade: 37
+  Sexo: feminino
+  Doença: Parkinson
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Neurologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Helena Gomes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 18.3 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 96:
+  ID: d350
+  Nome: Branco Jogo
+  Idade: 38
+  Sexo: outro
+  Doença: Neuralgia
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Neurologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Mariana Lopes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 20.1 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 97:
+  ID: d1648
+  Nome: Leonardo Jacinto Ruiva
+  Idade: 53
+  Sexo: masculino
+  Doença: Ataque isquémico transitório
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Neurologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Isabel Ferreira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 9.9 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 98:
+  ID: d1002
+  Nome: Sara Andreea Rascão
+  Idade: 55
+  Sexo: masculino
+  Doença: Ataque isquémico transitório
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Neurologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Isabel Ferreira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 22.3 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 99:
+  ID: d996
+  Nome: Rodrigo Simão Pratas
+  Idade: 62
+  Sexo: masculino
+  Doença: Neuralgia
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Neurologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Helena Gomes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 19.8 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 100:
+  ID: d1037
+  Nome: Elvaney Baldeiras
+  Idade: 58
+  Sexo: outro
+  Doença: Miopia
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Oftalmologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Rita Ferreira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 9.9 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 101:
+  ID: d1038
+  Nome: Yanek Violas
+  Idade: 91
+  Sexo: outro
+  Doença: Hipermetropia
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Oftalmologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Carla Rodrigues
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 10.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 102:
+  ID: d1261
+  Nome: Valdegar Hormigo
+  Idade: 85
+  Sexo: feminino
+  Doença: Olho seco
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Oftalmologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Rita Ferreira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 13.3 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 103:
+  ID: d1904
+  Nome: Aareesh Bertoo
+  Idade: 30
+  Sexo: masculino
+  Doença: Astigmatismo
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Oftalmologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Rita Ferreira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 22.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 104:
+  ID: d1257
+  Nome: Xavier António Veroo
+  Idade: 23
+  Sexo: feminino
+  Doença: Astigmatismo
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Oftalmologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Carla Rodrigues
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 15.8 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 105:
+  ID: d1467
+  Nome: Bebiana Boleto
+  Idade: 50
+  Sexo: masculino
+  Doença: Miopia
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Oftalmologia
+  Tempo de Espera: 1.5 minutos
+  Médico Atendente: Dra. Rita Ferreira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 12.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 106:
+  ID: d614
+  Nome: Lavínia Celeste Panarra
+  Idade: 95
+  Sexo: outro
+  Doença: Hipermetropia
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Oftalmologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Rita Ferreira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 15.7 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 107:
+  ID: d1559
+  Nome: Tomás Rui Ramalhoso
+  Idade: 76
+  Sexo: outro
+  Doença: Dor no ombro
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Pedro Rodrigues
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 20.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 108:
+  ID: d1343
+  Nome: Gonçalo Nestor Achas
+  Idade: 54
+  Sexo: feminino
+  Doença: Escoliose
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Sofia Almeida
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 17.9 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 109:
+  ID: d1995
+  Nome: Marta Alexandra Jovino
+  Idade: 69
+  Sexo: masculino
+  Doença: Lesão desportiva
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Carlos Teixeira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 12.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 110:
+  ID: d273
+  Nome: John Law Cirne
+  Idade: 90
+  Sexo: masculino
+  Doença: Dor no quadril
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 4.5 minutos
+  Médico Atendente: Dr. Pedro Rodrigues
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 10.9 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 111:
+  ID: d908
+  Nome: Abelardo Tente
+  Idade: 96
+  Sexo: masculino
+  Doença: Escoliose
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 1.0 minutos
+  Médico Atendente: Dr. Carlos Teixeira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 16.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 112:
+  ID: d480
+  Nome: Arthur Gileade Reguera
+  Idade: 72
+  Sexo: outro
+  Doença: Fratura
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Sofia Almeida
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 13.8 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 113:
+  ID: d1139
+  Nome: Harjasbir Videira
+  Idade: 79
+  Sexo: outro
+  Doença: Lesão desportiva
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 1.5 minutos
+  Médico Atendente: Dr. Pedro Rodrigues
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 9.6 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 114:
+  ID: d1987
+  Nome: Rafael Samba Micolo
+  Idade: 28
+  Sexo: masculino
+  Doença: Cifose
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 11.5 minutos
+  Médico Atendente: Dr. Carlos Teixeira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 8.1 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 115:
+  ID: d483
+  Nome: Muhammad Abaan Goiense
+  Idade: 68
+  Sexo: masculino
+  Doença: Escoliose
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 7.5 minutos
+  Médico Atendente: Dr. Pedro Rodrigues
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 13.4 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 116:
+  ID: d1339
+  Nome: Kaylah Rebolho
+  Idade: 56
+  Sexo: outro
+  Doença: Bursite
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Sofia Almeida
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 13.9 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 117:
+  ID: d1133
+  Nome: Áleph Perfeito
+  Idade: 30
+  Sexo: outro
+  Doença: Lordose
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 3.0 minutos
+  Médico Atendente: Dr. Carlos Teixeira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 16.3 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 118:
+  ID: d64
+  Nome: Gardel Pranto
+  Idade: 68
+  Sexo: outro
+  Doença: Lesão desportiva
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 2.5 minutos
+  Médico Atendente: Dr. Pedro Rodrigues
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 19.4 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 119:
+  ID: d1779
+  Nome: Cidiana Laires
+  Idade: 26
+  Sexo: outro
+  Doença: Dor no tornozelo
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Sofia Almeida
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 20.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 120:
+  ID: d1337
+  Nome: Valdir Tomás Ameal
+  Idade: 92
+  Sexo: feminino
+  Doença: Distensão muscular
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Carlos Teixeira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 10.1 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 121:
+  ID: d1136
+  Nome: Dancho Maranhoo
+  Idade: 68
+  Sexo: masculino
+  Doença: Dor no joelho
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 7.0 minutos
+  Médico Atendente: Dr. Pedro Rodrigues
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 22.3 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 122:
+  ID: d1118
+  Nome: Saransh Violante
+  Idade: 24
+  Sexo: outro
+  Doença: Dor lombar
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 1.0 minutos
+  Médico Atendente: Dr. Carlos Teixeira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 10.7 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 123:
+  ID: d1977
+  Nome: Petra Maria Gadelha
+  Idade: 33
+  Sexo: outro
+  Doença: Artrose
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 10.5 minutos
+  Médico Atendente: Dra. Sofia Almeida
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 12.8 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 124:
+  ID: d914
+  Nome: Daira Rosinha
+  Idade: 84
+  Sexo: masculino
+  Doença: Dor no ombro
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Ortopedia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Sofia Almeida
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 17.3 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 125:
+  ID: d1912
+  Nome: Nuno José Barrenho
+  Idade: 79
+  Sexo: outro
+  Doença: Amigdalite crónica
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Otorrinolaringologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Bruno Sousa
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 21.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 126:
+  ID: d829
+  Nome: Nelson Diogo Fontainhas
+  Idade: 91
+  Sexo: outro
+  Doença: Amigdalite crónica
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Otorrinolaringologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. João Silva
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 21.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 127:
+  ID: d1479
+  Nome: Dinka Foquiço
+  Idade: 74
+  Sexo: masculino
+  Doença: Laringite
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Otorrinolaringologia
+  Tempo de Espera: 5.5 minutos
+  Médico Atendente: Dr. Bruno Sousa
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 9.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 128:
+  ID: d1270
+  Nome: Asal Fundacoo
+  Idade: 61
+  Sexo: masculino
+  Doença: Vertigem posicional
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Otorrinolaringologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Bruno Sousa
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 12.7 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 129:
+  ID: d1684
+  Nome: Tomás António Carroloo
+  Idade: 82
+  Sexo: masculino
+  Doença: Acompanhamento crescimento
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Pediatria
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. André Silva
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 17.4 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 130:
+  ID: d168
+  Nome: Dharyani Balula
+  Idade: 84
+  Sexo: feminino
+  Doença: Caxumba
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Pediatria
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. António Gomes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 20.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 131:
+  ID: d1035
+  Nome: Leonardo Rosso Guillanot
+  Idade: 71
+  Sexo: feminino
+  Doença: Consulta pediátrica
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Pediatria
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Benvinda Dantas
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 12.7 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 132:
+  ID: d1896
+  Nome: Anthony César Ferragem
+  Idade: 89
+  Sexo: feminino
+  Doença: Amigdalite
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Pediatria
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. André Silva
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 22.4 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 133:
+  ID: d1466
+  Nome: Kynara Barrosa
+  Idade: 88
+  Sexo: masculino
+  Doença: Acompanhamento crescimento
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Pediatria
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. António Gomes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 18.1 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 134:
+  ID: d169
+  Nome: Denilson Pimenta
+  Idade: 55
+  Sexo: outro
+  Doença: Coqueluche
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Pediatria
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. André Silva
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 16.3 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 135:
+  ID: d1034
+  Nome: Alvier Capucho
+  Idade: 29
+  Sexo: masculino
+  Doença: Bronquiolite
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Pediatria
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. André Silva
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 21.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 136:
+  ID: d611
+  Nome: Jéssica Daniela Portulez
+  Idade: 59
+  Sexo: feminino
+  Doença: Consulta pediátrica
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Pediatria
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. António Gomes
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 21.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 137:
+  ID: d608
+  Nome: Jessica Mirene Clementinha
+  Idade: 24
+  Sexo: feminino
+  Doença: Amigdalite
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Pediatria
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Benvinda Dantas
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 12.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 138:
+  ID: d603
+  Nome: Lyann Mouco
+  Idade: 43
+  Sexo: feminino
+  Doença: Catapora
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Pediatria
+  Tempo de Espera: 1.5 minutos
+  Médico Atendente: Dr. André Silva
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 18.1 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 139:
+  ID: d301
+  Nome: Sandi Baía
+  Idade: 77
+  Sexo: masculino
+  Doença: Enfisema pulmonar
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Ricardo Martins
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 7.9 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 140:
+  ID: d1598
+  Nome: Mariana Patrícia Mondragão
+  Idade: 97
+  Sexo: outro
+  Doença: Dispneia
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Ricardo Martins
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 12.3 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 141:
+  ID: d736
+  Nome: Necline Serradinho
+  Idade: 94
+  Sexo: masculino
+  Doença: Apneia do sono
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Teresa Sousa
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 17.3 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 142:
+  ID: d514
+  Nome: Melany Brogueira
+  Idade: 50
+  Sexo: masculino
+  Doença: Doença pulmonar obstrutiva crónica
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 2.0 minutos
+  Médico Atendente: Dr. Ricardo Martins
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 19.3 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 143:
+  ID: d1590
+  Nome: Telma Alexandra Aurelio
+  Idade: 81
+  Sexo: feminino
+  Doença: Doença pulmonar obstrutiva crónica
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 1.5 minutos
+  Médico Atendente: Dra. Teresa Sousa
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 15.6 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 144:
+  ID: d1595
+  Nome: Yesly Cambraia
+  Idade: 65
+  Sexo: feminino
+  Doença: Pneumotórax
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 3.0 minutos
+  Médico Atendente: Dr. Ricardo Martins
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 16.7 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 145:
+  ID: d97
+  Nome: Ângela Ariela Petrucci
+  Idade: 53
+  Sexo: masculino
+  Doença: Dispneia
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 11.0 minutos
+  Médico Atendente: Dra. Teresa Sousa
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 21.9 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 146:
+  ID: d1373
+  Nome: Malia Pintão
+  Idade: 88
+  Sexo: outro
+  Doença: Bronquite
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 2.0 minutos
+  Médico Atendente: Dr. Ricardo Martins
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 18.7 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 147:
+  ID: d947
+  Nome: Dênis Acurcio
+  Idade: 31
+  Sexo: feminino
+  Doença: Enfisema pulmonar
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 5.0 minutos
+  Médico Atendente: Dra. Teresa Sousa
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 17.8 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 148:
+  ID: d86
+  Nome: Jules Faroleiro
+  Idade: 78
+  Sexo: outro
+  Doença: Bronquite
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 5.0 minutos
+  Médico Atendente: Dr. Ricardo Martins
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 21.4 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 149:
+  ID: d89
+  Nome: Miguel Andrés Faleiro
+  Idade: 42
+  Sexo: masculino
+  Doença: Doença pulmonar obstrutiva crónica
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 4.0 minutos
+  Médico Atendente: Dra. Teresa Sousa
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 18.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 150:
+  ID: d92
+  Nome: Diogo Vasco Queiróz
+  Idade: 91
+  Sexo: masculino
+  Doença: Apneia do sono
+  Prioridade: URGENTE
+  Status: NA FILA
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 7.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 151:
+  ID: d1589
+  Nome: Kimberly Loios
+  Idade: 84
+  Sexo: feminino
+  Doença: Tuberculose
+  Prioridade: URGENTE
+  Status: NA FILA
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 13.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 152:
+  ID: d517
+  Nome: Ianesis Firmina
+  Idade: 47
+  Sexo: feminino
+  Doença: Apneia do sono
+  Prioridade: ALTA
+  Status: NA FILA
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 32.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 153:
+  ID: d87
+  Nome: Lucénio Alfaro
+  Idade: 24
+  Sexo: masculino
+  Doença: Pneumonia
+  Prioridade: NORMAL
+  Status: NA FILA
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 1.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 154:
+  ID: d1381
+  Nome: Rayane Balsinha
+  Idade: 59
+  Sexo: masculino
+  Doença: Pleurisia
+  Prioridade: ALTA
+  Status: DESISTENTE
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 31.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 155:
+  ID: d1168
+  Nome: Nhangi Apostolo
+  Idade: 78
+  Sexo: feminino
+  Doença: Apneia do sono
+  Prioridade: ALTA
+  Status: DESISTENTE
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 42.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 156:
+  ID: d1173
+  Nome: Lilibete Conduto
+  Idade: 100
+  Sexo: outro
+  Doença: Dispneia
+  Prioridade: NORMAL
+  Status: DESISTENTE
+  Especialidade Necessária: Pneumologia
+  Tempo de Espera: 45.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 157:
+  ID: d420
+  Nome: Açucena Bianca
+  Idade: 88
+  Sexo: masculino
+  Doença: Bulimia
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Psiquiatria
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Vanessa Carvalho
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 12.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 158:
+  ID: d844
+  Nome: Gabriel Mapota Soito
+  Idade: 26
+  Sexo: outro
+  Doença: Anorexia
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Psiquiatria
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Vanessa Carvalho
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 10.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 159:
+  ID: d1921
+  Nome: Estella Cruzeiro
+  Idade: 52
+  Sexo: outro
+  Doença: Pânico
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Psiquiatria
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Ana Pereira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 20.5 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 160:
+  ID: d1705
+  Nome: Heer Soalheira
+  Idade: 64
+  Sexo: masculino
+  Doença: Fobia
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Psiquiatria
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Vanessa Carvalho
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 16.6 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 161:
+  ID: d841
+  Nome: Assucena Tadeus
+  Idade: 35
+  Sexo: feminino
+  Doença: Transtorno obsessivo-compulsivo
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Psiquiatria
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dra. Ana Pereira
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 21.6 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 162:
+  ID: d1012
+  Nome: Lindaflôr Beroo
+  Idade: 77
+  Sexo: feminino
+  Doença: Câncer de próstata
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Urologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Luís Ribeiro
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 8.6 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 163:
+  ID: d1445
+  Nome: Celinda Machaz
+  Idade: 43
+  Sexo: outro
+  Doença: Pielonefrite
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Urologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Luís Martins
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 22.1 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Não
+    - Atividade Física: alta
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 164:
+  ID: d1875
+  Nome: Sidónio Urbana
+  Idade: 99
+  Sexo: masculino
+  Doença: Disfunção erétil
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Urologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Luís Ribeiro
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 12.0 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Sim
+--------------------------------------------------
+PACIENTE 165:
+  ID: d1226
+  Nome: Rahima Ismael Janela
+  Idade: 55
+  Sexo: masculino
+  Doença: Hiperplasia prostática
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Urologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Luís Ribeiro
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 18.4 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 166:
+  ID: d1659
+  Nome: Rita Isabel Silvano
+  Idade: 93
+  Sexo: outro
+  Doença: Disfunção erétil
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Urologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Luís Martins
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 21.7 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Não
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 167:
+  ID: d1656
+  Nome: Leila Isabel Sansoo
+  Idade: 53
+  Sexo: outro
+  Doença: Hiperplasia prostática
+  Prioridade: NORMAL
+  Status: ATENDIDO
+  Especialidade Necessária: Urologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Luís Ribeiro
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 15.6 minutos
+  Hábitos de Saúde:
+    - Fumador: Sim
+    - Consome Álcool: Sim
+    - Atividade Física: baixa
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 168:
+  ID: d1006
+  Nome: Alice Filipa Linhares
+  Idade: 32
+  Sexo: masculino
+  Doença: Infeção urinária
+  Prioridade: ALTA
+  Status: ATENDIDO
+  Especialidade Necessária: Urologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Luís Martins
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 20.2 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: moderada
+    - Doença Crônica: Não
+--------------------------------------------------
+PACIENTE 169:
+  ID: d584
+  Nome: Atharva Surdo
+  Idade: 42
+  Sexo: masculino
+  Doença: Disfunção erétil
+  Prioridade: URGENTE
+  Status: ATENDIDO
+  Especialidade Necessária: Urologia
+  Tempo de Espera: 0.0 minutos
+  Médico Atendente: Dr. Luís Ribeiro
+  Correspondência Especialidade: Correta
+  Duração da Consulta: 19.1 minutos
+  Hábitos de Saúde:
+    - Fumador: Não
+    - Consome Álcool: Sim
+    - Atividade Física: alta
+    - Doença Crônica: Não
+--------------------------------------------------
